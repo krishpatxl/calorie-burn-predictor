@@ -1,6 +1,6 @@
 # Calorie Burn Predictor
 
-An end-to-end machine learning app that predicts **calories burned** during a workout using physiological + workout features.
+A production-style machine learning app that predicts calories burned during workouts using physiological and workout features. An end-to-end machine learning app that predicts **calories burned** during a workout using physiological + workout features.
 
 ## Demo
 
